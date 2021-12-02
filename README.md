@@ -1,7 +1,3 @@
-
-
-## My GitHub Stats
-
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=k2bd&theme=cobalt2&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k2bd&hide=html,css,javascript,dockerfile,shell&layout=compact&theme=cobalt2)
