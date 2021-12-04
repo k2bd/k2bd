@@ -16,6 +16,12 @@
 </a>
 
 
+## Templates I Maintain
+
+<a href="https://github.com/k2bd/action-python-poetry">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=action-python-poetry&theme=cobalt2" />
+</a>
+
 <!--
 **k2bd/k2bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
