@@ -1,4 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k2bd&hide=html,css,javascript,dockerfile,shell&layout=compact&theme=cobalt2)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k2bd&hide=html,css,javascript,dockerfile,shell&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm Currently Working On
 
