@@ -2,12 +2,7 @@
 
 ## I'm Currently Working On
 
-<a href="https://github.com/k2bd/advent-readme-stars">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=advent-readme-stars&theme=cobalt2" />
-</a>
-<a href="https://github.com/k2bd/advent-of-code">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=advent-of-code&theme=cobalt2" />
-</a>
+(Private project, watch this space)
 
 
 ## Templates I Maintain
