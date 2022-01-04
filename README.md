@@ -1,3 +1,9 @@
+## About Me
+
+You can find my devlog for side projects at [blog.k2bd.dev](https://blog.k2bd.dev).
+
+## My Languages
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k2bd&hide=html,css,javascript,dockerfile,shell&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 ## I'm Currently Working On
