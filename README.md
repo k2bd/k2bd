@@ -10,7 +10,7 @@ You can find my devlog for side projects at [blog.k2bd.dev](https://blog.k2bd.de
 
 ### Gateau Auto-Bingo
 
-A tool for building online displays that track classic games. Will be used to build speedrun and race trackers. Progress is devlogged [here](https://blog.k2bd.dev/search/label/auto%20bingo).
+A tool for building online displays that track classic games. Will be used to build automatic speedrun and race trackers. Progress is devlogged [here](https://blog.k2bd.dev/search/label/auto%20bingo).
 
 <a href="https://github.com/k2bd/gateau-desktop">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-desktop&theme=cobalt2&show_owner=true" />
