@@ -13,19 +13,19 @@ You can find my devlog for side projects at [blog.k2bd.dev](https://blog.k2bd.de
 A tool for building online displays that track classic games. Will be used to build speedrun and race trackers. Progress is devlogged [here](https://blog.k2bd.dev/search/label/auto%20bingo).
 
 <a href="https://github.com/k2bd/gateau-desktop">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-desktop&theme=cobalt2" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-desktop&theme=cobalt2&show_owner=true" />
 </a>
 <a href="https://github.com/k2bd/gateau-api">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-api&theme=cobalt2" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-api&theme=cobalt2&show_owner=true" />
 </a>
 
 ## Templates I Maintain
 
 <a href="https://github.com/k2bd/action-python-poetry">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=action-python-poetry&theme=cobalt2" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=action-python-poetry&theme=cobalt2&show_owner=true" />
 </a>
 <a href="https://github.com/k2bd/gcp-fastapi-poetry">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gcp-fastapi-poetry&theme=cobalt2" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gcp-fastapi-poetry&theme=cobalt2&show_owner=true" />
 </a>
 
 <!--
