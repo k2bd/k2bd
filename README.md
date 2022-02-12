@@ -30,6 +30,9 @@ A tool for building online displays that track classic games. Will be used to bu
 <a href="https://github.com/k2bd/gcp-fastapi-poetry">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gcp-fastapi-poetry&theme=cobalt2&show_owner=true" />
 </a>
+<a href="https://github.com/k2bd/poetry-library-template">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=poetry-library-template&theme=cobalt2&show_owner=true" />
+</a>
 
 <!--
 **k2bd/k2bd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
