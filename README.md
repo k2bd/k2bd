@@ -22,6 +22,12 @@ A tool for building online displays that track classic games. Will be used to bu
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-app&theme=cobalt2&show_owner=true" />
 </a>
 
+## Libraries I Maintain
+
+<a href="https://github.com/k2bd/firebasil">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=firebasil&theme=cobalt2&show_owner=true" />
+</a>
+
 ## Templates I Maintain
 
 <a href="https://github.com/k2bd/action-python-poetry">
