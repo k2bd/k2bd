@@ -1,8 +1,10 @@
-## My Languages
+## My Stack
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k2bd&hide=html,css,javascript,dockerfile,shell&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
 I primarily use Python for backend, scientific, and general-purpose work, and use React/Typescript for building web apps.
+
+For deployment, I tend to favour Google Cloud but also use AWS. For hosting, I use GitHub Pages for open source projects.
 
 ## I'm Currently Working On
 
