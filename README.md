@@ -2,6 +2,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k2bd&hide=html,css,javascript,dockerfile,shell&layout=compact&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
+I primarily use Python for backend, scientific, and general-purpose work, and use React/Typescript for building web apps.
+
 ## I'm Currently Working On
 
 ### Gateau Auto-Bingo
