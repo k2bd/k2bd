@@ -8,27 +8,23 @@ For deployment, I tend to favour Google Cloud but also use AWS. For hosting, I u
 
 ## I'm Currently Working On
 
-### Gateau Auto-Bingo
+### 🎄 Advent of Code 2022 🎄
 
-A tool for building online displays that track classic games. Will be used to build automatic speedrun and race trackers. Progress is devlogged [here](https://blog.k2bd.dev/search/label/auto%20bingo).
+I'm doing Advent of Code 2022 in Rust.
 
-<a href="https://github.com/k2bd/gateau-desktop">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-desktop&theme=cobalt2&show_owner=true" />
+I also maintain a Github action that's used by a few hundred people that manages a table of their AoC progress in their README.
+
+<a href="https://github.com/k2bd/advent-of-code-2022-rust">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=advent-of-code-2022-rust&theme=cobalt2&show_owner=true" />
 </a>
-<a href="https://github.com/k2bd/gateau-api">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-api&theme=cobalt2&show_owner=true" />
-</a>
-<a href="https://github.com/k2bd/gateau-app">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gateau-app&theme=cobalt2&show_owner=true" />
+<a href="https://github.com/k2bd/advent-readme-stars">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=advent-readme-stars&theme=cobalt2&show_owner=true" />
 </a>
 
 ## Libraries I Maintain
 
 <a href="https://github.com/k2bd/firebasil">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=firebasil&theme=cobalt2&show_owner=true" />
-</a>
-<a href="https://github.com/k2bd/gh-webhooks">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=gh-webhooks&theme=cobalt2&show_owner=true" />
 </a>
 
 ## Templates I Maintain
