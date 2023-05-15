@@ -8,17 +8,14 @@ For deployment, I tend to favour Google Cloud but also use AWS. For hosting, I u
 
 ## I'm Currently Working On
 
-### 🎄 Advent of Code 2022 🎄
+### DBMS Development
 
-I'm doing Advent of Code 2022 in Rust.
+I'm currently going through the [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi) course, learning more about database systems and following the coursework in Rust. Following this I will be going through the advanced course as well as starting fresh on the long path of building out a system designed for production use.
 
-I also maintain a Github action that manages a table of your AoC progress in your solution repo's README.
+You can follow my work on the coursework here:
 
-<a href="https://github.com/k2bd/advent-of-code-2022-rust">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=advent-of-code-2022-rust&theme=cobalt2&show_owner=true" />
-</a>
-<a href="https://github.com/k2bd/advent-readme-stars">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=advent-readme-stars&theme=cobalt2&show_owner=true" />
+<a href="https://github.com/k2bd/k2db">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=k2bd&repo=k2db&theme=cobalt2&show_owner=true" />
 </a>
 
 ## Libraries I Maintain
