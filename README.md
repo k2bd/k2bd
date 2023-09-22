@@ -4,7 +4,7 @@
 
 I primarily use Python for backend, scientific, and general-purpose work, and use React/Typescript for building web apps.
 
-For deployment, I tend to favour Google Cloud but also use AWS. For hosting, I use GitHub Pages for open source projects.
+For deployment, I am happy with both GCP and AWS. For hosting, I use GitHub Pages for open source projects.
 
 ## I'm Currently Working On
 
